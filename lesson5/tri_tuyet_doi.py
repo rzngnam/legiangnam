@@ -6,3 +6,4 @@ def tri_tuyet_doi():
     for i in range(len(x)):
         tong += abs(x[i])
     return tong
+
