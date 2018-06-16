@@ -1,8 +1,7 @@
-import tri_tuyet_doi as bai_4
 import xyz as bai_3
-import cap_so_cong as bai_1
 import luythua as bai_2
-
+import tri_tuyet_doi as bai_4
+import cap_so_cong as bai_1
 
 n = int(input("your number( bài 1 cấp số cộng): "))
 
