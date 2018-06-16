@@ -15,4 +15,3 @@ def cap_so_cong(x):
                 arr.append(-1)
 
         return arr
-

@@ -32,4 +32,5 @@ print()
 print('Bài 4 ( tổng giá trị tuyệt đối mảng 1 chiều)')
 input('Enter to continue')
 
+
 print(bai_4.tri_tuyet_doi())
